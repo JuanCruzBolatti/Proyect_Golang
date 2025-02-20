@@ -28,6 +28,8 @@ The project includes a set of predefined instructions to run tests and validate 
 
 ###### Español
 
+[Página de Presentación](https://juancruzbolatti.com/presentation/golang)
+
 ## Descripción  
 
 Esta es una simulación de un sistema operativo desarrollada en Golang. Cuenta con un kernel, manejo de archivos, gestión de memoria directa y ejecución de instrucciones. También implementa conceptos de sincronización, uso de hilos, algoritmos de planificación y teoría de sistemas operativos, optimizando el manejo de recursos y procesos concurrentes.  
